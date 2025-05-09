@@ -69,7 +69,7 @@ A simple and effective E-Book Management System built using **Java**, **JSP**, *
 
 ```bash
 git clone https://github.com/your-username/EBookManagement.git
-
+```
 
 ### 2. Navigate to the project directory
 ```bash
